@@ -11,7 +11,9 @@
 - joblib
 
 ## Workflow
-[image](../ML/Assets/Dermascan_ML_Workflow.png)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Bangkit-Capstone-C242-PS028/.github/refs/heads/main/profile/assets/Dermascan_ML_Workflow.png" alt="ML Workflow" style="width: 100%;">
+</div>
 
 ## Dataset Preparation
 | Dataset | Download |
