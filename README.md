@@ -48,14 +48,6 @@
   ```
   GPU: NVIDIA A1000 (google colab)
   ```
-### Hyper parameters
-```
-Lorem ipsum sit dolor amet
-```
-### Model Performance
-```
-Lorem ipsum sit dolor amet
-```
   
 ## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
